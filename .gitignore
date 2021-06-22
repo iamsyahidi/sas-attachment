@@ -1,0 +1,5 @@
+# // Ignore all inside folder static
+static/*
+
+# // ignore environment file
+.env
